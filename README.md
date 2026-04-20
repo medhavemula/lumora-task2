@@ -6,12 +6,18 @@
 ## Bundler
 **Vite** — handles multi-page builds, asset bundling, and compiles `.njk` templates to static HTML via a custom plugin.
 
-## Folder Structure
+## Folder Structure 
+
 Lumoratask2/
+
 src/
+
 templates/
+
 layout.njk          ← base layout
+
 partials/
+
 navbar.njk
 footer.njk
 assets/
